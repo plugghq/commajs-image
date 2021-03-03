@@ -1,6 +1,6 @@
 {
   "name": "commajs-image",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "Commajs - The WYSIWYG framework -  image plugin",
   "main": "dist/commajs-image.min.js",
   "repository": {
